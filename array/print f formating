@@ -1,0 +1,15 @@
+To use the Java String printf method to format output text, follow these rules:
+
+
+
+Use %s as the printf String specifier in the text string being formatted.
+Use %S as the printf String specifier to output upper-case text.
+Precede the letter s with a number to specify field width.
+Put a negative sign after the % to left-justify the text.
+Add %n any time you wish to include a line break.
+
+
+The %d specifier is used for integer types,
+
+
+ while %f is only used with a Java float or double.
